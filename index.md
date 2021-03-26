@@ -102,8 +102,6 @@ identification purposes only and does not constitute endorsement.)</small>
 
 1. 0x5c
 1. 8ara7a
-1. A Mani (Indian Statistical Institute, International Rough Set Society,
-Free Software Contributor)
 1. Aadil Ayub
 1. Aaron Berger
 1. Aaron Carson
@@ -755,7 +753,6 @@ Free Software Contributor)
 1. David Reid
 1. David Revoy (Pepper&Carrot)
 1. David Rodríguez (@davidjguru, Drupal developer and FLOSS contributor)
-1. David Runge (Arch Linux Developer)
 1. David Schmitt
 1. David Smith (@shmish111)
 1. David Sn (@divadsn, Lawnchair Launcher)
@@ -919,6 +916,7 @@ Free Software Contributor)
 1. Ethan Atchley (Ataraxia GNU/Linux and Dang Small Linux developer)
 1. Ethan Djeric
 1. Étienne Mollier (Debian Maintainer)
+1. Eugene Gubich
 1. Eva Knewes
 1. Eva Lauren Kelly (web & console homebrew developer, aka thejsa)
 1. Evan Brown
@@ -1908,7 +1906,6 @@ Free Software Contributor)
 1. Myriam Rita Schweingruber
 1. Myrle Krantz (ASF member)
 1. Nabarun Pal (Kubernetes 1.21 Release Lead, PyCon India 2020/2021 Tech Lead)
-1. Nader Jafari
 1. Naglis Lesčinskas
 1. Nalin Dahyabhai
 1. Nana Yumesaki
@@ -1916,7 +1913,6 @@ Free Software Contributor)
 1. Natacha Rault (les sans pagEs)
 1. Natalia Portillo (aka claunia, Aaru Data Preservation Suite, Claunia Ltd., Hit Save!)
 1. Natalie Amery (née Jonathan)
-1. Natalie Kelley
 1. Natan B. C. "`natanbc`"
 1. Nat Budin
 1. Nate Hill (Director, Metropolitan New York Library Council)
@@ -2538,7 +2534,6 @@ Free Software Contributor)
 1. Tony Colston
 1. Tony Eom
 1. Tony Richards
-1. Ton Sebro
 1. Tor Lillqvist (Collabora)
 1. tpdcl
 1. Tracie Fabb (Collabora)
